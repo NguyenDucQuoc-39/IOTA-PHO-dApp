@@ -16,6 +16,9 @@ npm run iota-deploy
 npm run dev
 ```
 
+Contract Address:
+https://explorer.iota.org/object/0xc596d7fef5628ec88f2cd176b3f49f0a7045cae581134f9a5f261d0885cd597c?network=testnet
+
 ## 📚 Documentation
 
 For detailed instructions, see **[INSTRUCTION_GUIDE.md](./INSTRUCTION_GUIDE.md)**
