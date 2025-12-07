@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.log
+.DS_Store
+.env.local
+.env.*.local
+dist/
+build/
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+contract/pho_restaurant/build/
+contract/pho_restaurant/Move.lock
